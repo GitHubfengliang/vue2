@@ -18,7 +18,7 @@
   export default {
       data(){
         return {
-          msg:'你想去哪里？？ddd？？'
+          msg:'你想去哪里？？ddasdsadsadsadsadd？？'
         }
       }
 }
