@@ -18,7 +18,8 @@
   export default {
       data(){
         return {
-lllll        }
+          msg:'你想去哪里？？ddd？？'
+        }
       }
 }
 </script>
